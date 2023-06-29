@@ -35,9 +35,9 @@ The notebook available in this repository is:
   - Segmenting the data with Hierarchical Clustering
   - Segmenting the data with k-Means
   - Applying PCA to the Segmented Data
-- [Purchase Descriptive Analysis](purchase_analysis.ipynb): This notebook focuses on analyzing the purchase behavior of customers, exploring patterns, and extracting descriptive insights from the purchase data.
+- [Purchase Descriptive Analysis](purchase-analytics.ipynb): This notebook focuses on analyzing the purchase behavior of customers, exploring patterns, and extracting descriptive insights from the purchase data.
 
-- [Purchase Predictive Analysis](purchase_predictive_analysis.ipynb): This notebook delves into predictive analysis techniques to forecast future purchases based on historical data. It covers various predictive modeling algorithms and evaluation metrics.
+- [Purchase Predictive Analysis](purchase-predictive-analytics.ipynb): This notebook delves into predictive analysis techniques to forecast future purchases based on historical data. It covers various predictive modeling algorithms and evaluation metrics.
 
 E
 
