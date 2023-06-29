@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis
+# Customer Analytics Project
 
 Welcome to the Customer Segmentation Analysis repository! This repository is dedicated to the analysis and implementation of customer segmentation techniques. Customer segmentation is a crucial task in marketing and business analytics, as it helps businesses understand their customers better and tailor their strategies accordingly.
 ## Project Overview
