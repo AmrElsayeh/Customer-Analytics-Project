@@ -39,8 +39,6 @@ The notebook available in this repository is:
 
 - [Purchase Predictive Analysis](purchase-predictive-analytics.ipynb): This notebook delves into predictive analysis techniques to forecast future purchases based on historical data. It covers various predictive modeling algorithms and evaluation metrics.
 
-E
-
 The notebook provides detailed explanations, step-by-step implementations, and examples for each topic. Feel free to explore and adapt the code to suit your own analysis tasks.
 
 If you have any improvements, suggestions, or additional notebooks to share, feel free to contribute by opening an issue or submitting a pull request. Let's learn and grow together in the field of customer segmentation analysis!
